@@ -1,27 +1,32 @@
-  # Russian content available in USA
-  # Music Videos (usually not region-locked)
-  https://youtu.be/hfjHJneVonE    # Kolyada - Traditional Russian music
-  https://youtu.be/GW6GSa14xXI    # Soviet National Anthem (official)
-  https://youtu.be/rHomETco0MI    # Katyusha - Classic Russian song
-  https://youtu.be/BcDK7lkzzsU    # Russian folk music compilation
-  https://youtu.be/W-pBKMmpMvM    # Moscow Nights (Podmoskovnye Vechera)
-
-  # Documentary/Historical (typically allowed)
-  https://youtu.be/DwKPFT-RioU    # Russian history documentary
-  https://youtu.be/J_1g-wJcTzs    # Soviet space program
-  https://youtu.be/HIgzlTk8W4Q    # Russian culture documentary
-
-  # Movie Trailers (not full movies - safer for embedding)
-  https://youtu.be/sTAjj_6nNZA    # Brother (Brat) trailer
-  https://youtu.be/u7KU3WZj6tM    # Leviathan trailer
-  https://youtu.be/T6gJj7M5nUY    # The Return (Vozvrashchenie) trailer
-
-  # News/Educational
-  https://youtu.be/7L3SUyIpIg4    # RT News in Russian
-  https://youtu.be/x0y7f7y0jTE    # Russian language learning
-  https://youtu.be/wHylQRVN2Qs    # Russian cooking show
-
-  # Classic TV/Animation
-  https://youtu.be/j-SiRgBaY9k    # Nu Pogodi (classic Soviet cartoon)
-  https://youtu.be/LGQCTr9eFl8    # Winnie the Pooh (Russian version)
-  https://youtu.be/EjM_KfyEOLM    # Cheburashka cartoon
+[
+  {
+    "title": "Брат",
+    "year": 1997,
+    "youtube_url": "https://www.youtube.com/watch?v=aDaaCGZz-Ok"
+  },
+  {
+    "title": "Брат 2",
+    "year": 2000,
+    "youtube_url": "https://www.youtube.com/watch?v=K9TRaGNnjEU"
+  },
+  {
+    "title": "Бумер",
+    "year": 2003,
+    "youtube_url": "https://www.youtube.com/watch?v=l-qMtxfJynI"
+  },
+  {
+    "title": "Майор Гром",
+    "year": 2017,
+    "youtube_url": "https://www.youtube.com/watch?v=RLt65JxNsWI"
+  },
+  {
+    "title": "Околофутбола",
+    "year": 2013,
+    "youtube_url": "https://www.youtube.com/watch?v=syrpIGuTMXQ"
+  },
+  {
+    "title": "Ликвидатор",
+    "year": 2011,
+    "youtube_url": "https://www.youtube.com/watch?v=RsTVa35yr5E"
+  }
+]
