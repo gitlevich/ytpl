@@ -1,11 +1,27 @@
-https://youtu.be/7pTX6lTsj-w?si=6Zk9uj4zZRdfUkjV
-https://youtu.be/K3GkSo3ujSY   # Brother (Брат) - 1997 Classic
-https://youtu.be/VNsTbhG1ho8   # Brother 2 (Брат 2) - 2000
-https://youtu.be/mQJlDKKw2GQ   # Night Watch (Ночной дозор) - 2004
-https://youtu.be/X-nENb7CyqQ   # Day Watch (Дневной дозор) - 2006
-https://youtu.be/CqnU_sJ8V-E   # The Inhabited Island (Обитаемый остров) - 2008
-https://youtu.be/YxXn7VYmgJQ   # Cargo 200 (Груз 200) - 2007
-https://youtu.be/8XOLLgJ8JA0   # The Prisoner of the Caucasus (Кавказский пленник) - 1996
-https://youtu.be/V8A4qudacPQ   # War (Война) - 2002
-https://youtu.be/L9TWQKP4_mI   # Special Forces (Спецназ) - 2002
-https://youtu.be/9_8rDxBGCJ0   # The 9th Company (9 рота) - 2005
+  # Russian content available in USA
+  # Music Videos (usually not region-locked)
+  https://youtu.be/hfjHJneVonE    # Kolyada - Traditional Russian music
+  https://youtu.be/GW6GSa14xXI    # Soviet National Anthem (official)
+  https://youtu.be/rHomETco0MI    # Katyusha - Classic Russian song
+  https://youtu.be/BcDK7lkzzsU    # Russian folk music compilation
+  https://youtu.be/W-pBKMmpMvM    # Moscow Nights (Podmoskovnye Vechera)
+
+  # Documentary/Historical (typically allowed)
+  https://youtu.be/DwKPFT-RioU    # Russian history documentary
+  https://youtu.be/J_1g-wJcTzs    # Soviet space program
+  https://youtu.be/HIgzlTk8W4Q    # Russian culture documentary
+
+  # Movie Trailers (not full movies - safer for embedding)
+  https://youtu.be/sTAjj_6nNZA    # Brother (Brat) trailer
+  https://youtu.be/u7KU3WZj6tM    # Leviathan trailer
+  https://youtu.be/T6gJj7M5nUY    # The Return (Vozvrashchenie) trailer
+
+  # News/Educational
+  https://youtu.be/7L3SUyIpIg4    # RT News in Russian
+  https://youtu.be/x0y7f7y0jTE    # Russian language learning
+  https://youtu.be/wHylQRVN2Qs    # Russian cooking show
+
+  # Classic TV/Animation
+  https://youtu.be/j-SiRgBaY9k    # Nu Pogodi (classic Soviet cartoon)
+  https://youtu.be/LGQCTr9eFl8    # Winnie the Pooh (Russian version)
+  https://youtu.be/EjM_KfyEOLM    # Cheburashka cartoon
